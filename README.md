@@ -1,5 +1,5 @@
 # The-Enigma
-A sophisticated German WWII Naval Cipher with complex encryption and decryption methods implemented in java. This project implements the generalized Enigma Machine (rotors, plugboard, reflector) This Enigma Machine was implemented to use arbitrary alphabets in encryption.
+A sophisticated German WWII Naval Cipher with complex encryption and decryption methods implemented in java using a variety of data structures primarily: Hashmaps, ArrayLists, Scanners. This project also used extenseive string hacking and string manipulation and is able to read, scan, and encrypt config files. This project implements the generalized Enigma Machine (rotors, plugboard, reflector) This Enigma Machine was implemented to use arbitrary alphabets in encryption.
 
 ![Enigma-rotors](https://user-images.githubusercontent.com/47373165/68526380-08898d80-0290-11ea-9a06-2945f3d8302b.jpg)
 
